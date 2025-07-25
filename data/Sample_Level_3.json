@@ -4,21 +4,8 @@
     "author": "Boldstep",
     "creators": ["Rustam", "ILRELL"],
     "verifier": "breakcore11",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
-    "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+    "verification": "https://youtu.be/A90TaTRK8Rs?si=XLlHOnqDvUlBLi5T",
+    "percentToQualify": "42",
+    "password": "231846",
+    "records": []
 }
