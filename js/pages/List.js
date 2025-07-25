@@ -100,13 +100,16 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        When pawdifying (aka Verifying) a Level. There are some requirements. These include: The Level having to be on AREDL, the Level having to be an Extreme Demon, and the Pawdification fitting all the Submission Requirements
+                    </p>
+                    <p>
+                        Achieved the record without using hacks and by using Paws. (however, FPS bypass is allowed, up to 360fps) If you don't have Paws, go get some! 😛
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Have either source audio or clicks/taps in the video. Edited audio only does not count. Handcam is required as well so we can check if you have Paws on.
                     </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
